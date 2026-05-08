@@ -1,0 +1,3 @@
+https://ai.google.dev/gemma/images/gemma4_banner.png
+https://ai.google/static/documents/ai-responsibility-update-published-february-2025.pdf
+https://cdn-avatars.huggingface.co/v1/production/uploads/5dd96eb166059660ed1ee413/WtA3YYitedOr9n02eHfJe.png
